@@ -29,7 +29,9 @@ Here are some ideas to get you started:
  <img src="https://docs.mongodb.com/images/mongodb-logo.png" width="100" />
  <img src="https://redislabs.com/wp-content/themes/wpx/assets/images/logo-redis.svg" width="100" />
  <img src="https://dotnet.microsoft.com/static/images/redesign/downloads-dot-net-core.svg?v=U_8I9gzFF2Cqi5zUNx-kHJuou_BWNurkhN_kSm3mCmo" width="100" />
- 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" width="40" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/240px-CSS3_logo_and_wordmark.svg.png" width="30" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/220px-Sass_Logo_Color.svg.png" width="50" />
  </p>
  
  read document then read documnet then read document then write code
