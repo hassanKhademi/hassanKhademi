@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/128px-Typescript_logo_2020.svg.png" width="80" />
  <img src="https://github.com/angular/angular/raw/master/aio/src/assets/images/logos/angular/angular.png" width="100" />
  <img src="https://docs.nestjs.com/assets/logo-small.svg" width="100" /> 
- <img src="https://docs.mongodb.com/images/mongodb-logo.png" width="100" />
+ <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/500px-MongoDB-Logo.svg.png" width="100" />
  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/400px-Redis_Logo.svg.png" width="100" />
  <img src="https://dotnet.microsoft.com/static/images/redesign/downloads-dot-net-core.svg?v=U_8I9gzFF2Cqi5zUNx-kHJuou_BWNurkhN_kSm3mCmo" width="100" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" width="40" />
