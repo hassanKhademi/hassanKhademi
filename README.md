@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Exir compony
-- 🌱 I’m currently learning .netCore
+- 🌱 I’m currently learning reactJs
 - 👯 I’m looking to collaborate on 👇
 
 <p align="center">
