@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/440px-Node.js_logo.svg.png" width="100" />
- <img src="https://transang.me/content/images/size/w2000/2019/11/ExpressJS.png"  width="150"/>
+ <img src="https://transang.me/content/images/size/w2000/2019/11/ExpressJS.png"  width="110"/>
  <img src="https://docs.nestjs.com/assets/logo-small.svg" width="100" /> 
  <img src="https://dotnet.microsoft.com/static/images/redesign/downloads-dot-net-core.svg?v=U_8I9gzFF2Cqi5zUNx-kHJuou_BWNurkhN_kSm3mCmo" width="100" />
 </p>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 -->
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/440px-Bootstrap_logo.svg.png" width="80" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/220px-Sass_Logo_Color.svg.png" width="80" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" width="150" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/220px-Nextjs-logo.svg.png" width="150" />  
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" width="120" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/220px-Nextjs-logo.svg.png" width="120" />  
  
  <!--read document then read documnet then read document then write code -->
