@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Exir compony...
+- 🔭 I’m currently working on Fanap compony...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Exir compony
-- 🌱 I’m currently learning reactJs
+- 🔭 I’m currently working on Fanap compony
+- 🌱 I’m currently learning NextJs
 - 👯 I’m looking to collaborate on 👇
 
 <p align="center">
